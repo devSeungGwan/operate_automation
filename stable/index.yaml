@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  oper-project-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-10T14:30:36.850162222+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 4a70b8c7e1ba23b9af870d5428987d9a7c70ca6d3cc74c16fa9abb6381c58e8e
+    name: oper-project-test
+    type: application
+    urls:
+    - oper-project-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-10T14:30:36.849541619+09:00"
